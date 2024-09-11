@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BD on Marin Plopeanu</title>
+    <link>https://mplopeanu.github.io/discipline/tags/bd/</link>
+    <description>Recent content in BD on Marin Plopeanu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mplopeanu.github.io/discipline/tags/bd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programarea Bazelor de Date [BD]</title>
+      <link>https://mplopeanu.github.io/discipline/post/discipline/progr_bd/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://mplopeanu.github.io/discipline/post/discipline/progr_bd/</guid>
+      <description>&lt;p&gt;Aici se pot gasi informatii legate de disciplina ”Programarea bazelor de date”.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PADG on Marin Plopeanu</title>
+    <link>https://mplopeanu.github.io/discipline/tags/padg/</link>
+    <description>Recent content in PADG on Marin Plopeanu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mplopeanu.github.io/discipline/tags/padg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prelucrarea automată a datelor geodezice [PADG]</title>
+      <link>https://mplopeanu.github.io/discipline/post/discipline/padg/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://mplopeanu.github.io/discipline/post/discipline/padg/</guid>
+      <description>&lt;p&gt;Aici se pot descărca fișierele cu date utile pentru disciplina PADG.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

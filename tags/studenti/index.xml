@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studenti on Marin Plopeanu</title>
+    <link>https://mplopeanu.github.io/discipline/tags/studenti/</link>
+    <description>Recent content in Studenti on Marin Plopeanu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mplopeanu.github.io/discipline/tags/studenti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fotografii Studenți</title>
+      <link>https://mplopeanu.github.io/discipline/post/studenti/studenti_foto/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://mplopeanu.github.io/discipline/post/studenti/studenti_foto/</guid>
+      <description>&lt;p&gt;Fotografiile prezentate aici sunt unice, în sensul în care &lt;strong&gt;fotografia&lt;/strong&gt; se întrepătrunde cu &lt;strong&gt;științele inginerești&lt;/strong&gt;. Fotografiile de aici spun povești deosebite, povești în imagini, ”povestite” de studenții de la geodezie.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>
